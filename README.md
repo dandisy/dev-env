@@ -1,2 +1,24 @@
 # dev-env
-Development Environment using Docker in Vagrant
+Development Environment using Vagrant with Docker (Laradock) / LAMP / LEMP provision
+
+### Requirement
+
+    1. Virtual Box
+    2. Vagrant
+    3. git
+
+### Install
+
+    - git clone https://github.com/dandisy/dev-env.git
+    - cd dev-env/src
+    - git clone https://github.com/Laradock/laradock.git
+    - cp env-example .env
+    - cd ../../
+    - vagrant up
+
+### Usage
+
+    - vagrant ssh
+    - cd /var/www/laradock
+
+    then run your laradock. see [http://laradock.io]

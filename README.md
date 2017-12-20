@@ -5,7 +5,7 @@ Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provis
 
 Knowledge
 
-    - Git knowledge https://git-scm.com
+    - Git knowledge [https://git-scm.com](https://git-scm.com)
     - Vagrant knowledge [https://www.vagrantup.com](https://www.vagrantup.com)
     - Docker knowledge [https://www.docker.com](https://www.docker.com)
 

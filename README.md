@@ -43,7 +43,8 @@ then run your laradock. see [http://laradock.io](http://laradock.io)
 
 ### 3. Usage
 
-Run your browser, visit to http://localhost:9090 or http://192.168.90.90
+Put your web project to dev-env/www directory, then
+run your browser, visit to http://localhost:9090 or http://192.168.90.90
 
 #
 by dandi@redbuzz.co.id

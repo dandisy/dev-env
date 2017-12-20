@@ -29,7 +29,7 @@ Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provis
     - vagrant ssh
     - cd /var/www/laradock
 
-then run your laradock. see [https://laradock.io](https://laradock.io)
+then run your laradock. see [http://laradock.io](http://laradock.io)
 
 
 #

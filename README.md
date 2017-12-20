@@ -3,9 +3,16 @@ Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provis
 
 ### Requirement
 
-    1. Virtual Box
-    2. Vagrant
-    3. git
+Knowledge
+
+    - Basic Git knowledge (https://git-scm.com)
+    - Basic Vagrant knowledge (https://www.vagrantup.com)
+
+System
+
+    1. Virtual Box (https://www.virtualbox.org/wiki/Downloads)
+    2. Vagrant (https://www.vagrantup.com/downloads.html)
+    3. git (https://git-scm.com/downloads)
 
 ### Install
 
@@ -21,4 +28,4 @@ Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provis
     - vagrant ssh
     - cd /var/www/laradock
 
-    then run your laradock. see [http://laradock.io]
+    then run your laradock. see (https://laradock.io)

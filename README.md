@@ -20,18 +20,20 @@ Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provis
     - git clone https://github.com/dandisy/dev-env.git
     - cd dev-env
 
-    run these if you want to use laradock
-    - cd provision/src
+run these if you want to use laradock
+
+    - cd provision/src
     - git clone https://github.com/Laradock/laradock.git
     - cp laradock/env-example laradock/.env
     - cd ../../
 
-    then
-    - vagrant up
+then
 
-### 3. Usage
+    - vagrant up
 
-    - vagrant ssh
+by now you can go into development environment
+
+    - vagrant ssh
 
 if you use laradock, run
 
@@ -39,6 +41,9 @@ if you use laradock, run
     
 then run your laradock. see [http://laradock.io](http://laradock.io)
 
+### 3. Usage
+
+Run your browser, visit to http://localhost:9090 or http://192.168.90.90
 
 #
 by dandi@redbuzz.co.id

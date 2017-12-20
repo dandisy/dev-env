@@ -1,9 +1,9 @@
 # dev-env
 Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provision
 
-### Requirement
+### Requirements
 
-Knowledge
+Knowledges
 
     - Git knowledge [https://git-scm.com](https://git-scm.com)
     - Vagrant knowledge [https://www.vagrantup.com](https://www.vagrantup.com)

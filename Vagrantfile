@@ -10,10 +10,10 @@ Vagrant.configure("2") do |config|
 	config.vm.hostname = "dandisy-dev-env"
 	
 	# Setup port forwarding
-	config.vm.network "forwarded_port", guest: 80, host: 6060
+	config.vm.network "forwarded_port", guest: 80, host: 9090
 
 	# Setup internal network
-	config.vm.network "private_network", ip: "192.168.60.60"
+	config.vm.network "private_network", ip: "192.168.90.90"
 
 	# Setup public network
 	# config.vm.network "public_network", ip: "192.168.90.90"

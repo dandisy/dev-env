@@ -1,7 +1,7 @@
 # dev-env
 Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provision
 
-### Requirements
+### 1. Requirements
 
 #### Knowledges
 
@@ -15,7 +15,7 @@ Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provis
 2. Vagrant [https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html)
 3. git [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
-### Installation
+### 2. Installation
 
     - git clone https://github.com/dandisy/dev-env.git
     - cd dev-env/provision/src
@@ -24,7 +24,7 @@ Development Environment using Vagrant and Docker (Laradock) / LAMP / LEMP provis
     - cd ../../
     - vagrant up
 
-### Usage
+### 3. Usage
 
     - vagrant ssh
     - cd /var/www/laradock

@@ -20,7 +20,7 @@ Vagrant.configure("2") do |config|
 
     # Share an additional folder to the guest VM
     config.vm.synced_folder "./provision/src", "/var/www"
-    config.vm.synced_folder "../../www", "/var/www/html"
+    config.vm.synced_folder "./www", "/var/www/html"
 
     # Provider-specific configuration
     config.vm.provider "virtualbox" do |v|

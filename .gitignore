@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+/.vagrant
+/provision/src/laradock
+
+/www/*
+!/www/index.html
+!/www/info.php
+!/www/vagrant_share/index.html
+!/www/vagrant_share/test.txt
+
+*.log
